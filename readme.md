@@ -11,7 +11,7 @@
 
 - While testing in the lab, we measure the ΔR/R value for 8-10 devices over a series of voltage values.
 - The above process is repeated for 7 concentrations of Troponin-I in total with concentrations being constant for each iteration.
-- At the end of the process, we have a 3-dimensional dataset that we need to process.
+- At the end of this step, we have a 3-dimensional dataset that we need to process further.
 
 ## Data Pre-Processing
 
