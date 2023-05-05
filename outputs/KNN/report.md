@@ -1,4 +1,4 @@
-# K Nearest Neighbours (KNN)
+# K Nearest Neighbours <b>(KNN)</b>
 
 It is a simple, non-parametric algorithm that works by finding the k closest neighbors to a given query point and then using those neighbors to predict the label or value of the query point
 
