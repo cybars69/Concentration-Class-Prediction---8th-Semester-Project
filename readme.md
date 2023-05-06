@@ -37,4 +37,4 @@
 | Decision Tree      | 94.6 %   | 82.4 %              | [More Details](./outputs/Decision%20Tree/report.md) |
 | Random Forest      | 97.2 %   | 89.6 %              | [More Details](./outputs/Random%20Forest/report.md) |
 | XG Boost           | 94.9 %   | 85.3 %              | [More Details](./outputs/XG%20Boost/report.md)      |
-| MLP                | 89.8 %   | 67.2 %              | [More Details](./outputs/MLP/report.md)             |
+| MLP                | 93.8 %   | 73.4 % (average)    | [More Details](./outputs/MLP/report.md)             |
