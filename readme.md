@@ -30,11 +30,11 @@
 
 - The Algorithms and ML Models used in this project have all been linked below with their corresponding overall accuracies and within them are Precision, Recall and F1 Score included as well.
 
-| Training Algorithm | Accuracy | Detailed Accuracy Reports                           |
-| ------------------ | -------- | --------------------------------------------------- |
-| KNN                | 92.6 %   | [More Details](./outputs/KNN/report.md)             |
-| SVM                | 95.4 %   | [More Details](./outputs/SVM/report.md)             |
-| Decision Tree      | 94.6 %   | [More Details](./outputs/Decision%20Tree/report.md) |
-| Random Forest      | 97.2 %   | [More Details](./outputs/Random%20Forest/report.md) |
-| XG Boost           | 94.9 %   | [More Details](./outputs/XG%20Boost/report.md)      |
-| MLP                | 78.1 %   | [More Details](./outputs/MLP/report.md)             |
+| Training Algorithm | Accuracy | Deployment Accuracy | Detailed Accuracy Reports                           |
+| ------------------ | -------- | ------------------- | --------------------------------------------------- |
+| KNN                | 92.6 %   | 88.6 %              | [More Details](./outputs/KNN/report.md)             |
+| SVM                | 95.4 %   | 88.5 %              | [More Details](./outputs/SVM/report.md)             |
+| Decision Tree      | 94.6 %   | 82.4 %              | [More Details](./outputs/Decision%20Tree/report.md) |
+| Random Forest      | 97.2 %   | 89.6 %              | [More Details](./outputs/Random%20Forest/report.md) |
+| XG Boost           | 94.9 %   | 85.3 %              | [More Details](./outputs/XG%20Boost/report.md)      |
+| MLP                | 78.1 %   | NA                  | [More Details](./outputs/MLP/report.md)             |
